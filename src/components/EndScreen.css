@@ -1,0 +1,21 @@
+.es__answer
+{
+    background-color: #ffffff;
+    width: 400px;
+    align-items: center;
+    text-align: center;
+}
+
+.es__anq
+{
+    background-color:chartreuse;
+    width:400px;
+    left: 100px;
+    border-radius: 5px;
+}
+
+ol
+{
+    background-color: darkturquoise;
+    border-radius: 10px;
+}
